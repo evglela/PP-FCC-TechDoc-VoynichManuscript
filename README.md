@@ -1,2 +1,3 @@
 # PP-FCC-TechDoc-VoynichManuscript
-FreeCodeCamp technical documentation page to Voynich manuscript
+FreeCodeCamp Responsive Web Design Certification 
+- Technical documentation page in a style of Voynich manuscript
