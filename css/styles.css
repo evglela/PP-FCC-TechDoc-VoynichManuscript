@@ -1,16 +1,16 @@
 @font-face {
     font-family: "Voynich";
-    src: url(/fonts/voynich/voynich-1.23-webfont.ttf);
+    src: url(../fonts/voynich/voynich-1.23-webfont.ttf);
 }
 
 @font-face {
     font-family: "Voynich-readable";
-    src: url(/fonts/Voynich.ttf);
+    src: url(../fonts/Voynich.ttf);
 }
 
 
 *{
-    cursor:url(/img/custom-cursor-50.png), auto;
+    cursor:url(../img/custom-cursor-50.png), auto;
     margin:0;
     padding:0;
     border:none;
